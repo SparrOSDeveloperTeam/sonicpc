@@ -1,2 +1,2 @@
 # sonicpc
-Collection of Free Sonic 
+Collection of Free Sonic Games
